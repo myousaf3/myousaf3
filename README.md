@@ -4,7 +4,6 @@
 
 ### **AI/ML Engineer | GenAI, LLMs, RAG & Multi-Agent Systems**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=myousaf3&style=for-the-badge&color=brightgreen)](https://github.com/myousaf3)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/myousaf99)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myousaf2599@gmail.com)
 
@@ -19,7 +18,6 @@ I am a **Senior Software Engineer (AI/ML)** with **7+ years of experience** desi
 Currently, I am focused on bridging the gap between complex AI research and mission-ready production applications, ensuring data governance, security, and low-latency inference.
 
 - 💼 **Current Role:** Senior Software Engineer (AI/ML)
-- 🌍 **Location:** Lahore, Pakistan
 - 🛠 **Core Focus:** LLMs, Agents, Vector Databases, Cloud Infrastructure
 
 ---
