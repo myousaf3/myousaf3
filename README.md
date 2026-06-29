@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Muhammad Yousaf
 
-### **AI/ML Engineer | GenAI, LLMs, RAG & Multi-Agent Systems**
+### **Full Stack Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/myousaf99)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myousaf2599@gmail.com)
@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-I am a **Senior Software Engineer (AI/ML)** with **7+ years of experience** designing and delivering production-grade generative AI systems. I specialize in architecting scalable **RAG pipelines**, **Multi-Agent orchestration (LangGraph)**, and fine-tuning **Large Language Models (LoRA/QLoRA)** on cloud platforms like AWS Bedrock and SageMaker.
+I am a **Senior Software Engineer (AI/ML)** with **5+ years of experience** designing and delivering production-grade generative AI systems. I specialize in architecting scalable **RAG pipelines**, **Multi-Agent orchestration (LangGraph)**, and fine-tuning **Large Language Models (LoRA/QLoRA)** on cloud platforms like AWS Bedrock and SageMaker.
 
 Currently, I am focused on bridging the gap between complex AI research and mission-ready production applications, ensuring data governance, security, and low-latency inference.
 
